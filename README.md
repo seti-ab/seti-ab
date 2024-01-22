@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Setayesh and I'm a Junior Front-End Developer</h2>
+<h2 align="left">Setayesh Abouei - Junior Front-End Developer</h2>
 
 ###
 
